@@ -1,4 +1,4 @@
-# Assurity QA Technical Test #
+# Automation with Playwright Test #
 
 Using the API given below create an automated test with the listed acceptance criteria:
 
